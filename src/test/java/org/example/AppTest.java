@@ -35,6 +35,6 @@ public class AppTest
     {
 
         assertTrue( true );
-        System.out.println("TESTE OKKKKKKKKKKKKKKKKKKKKKK");
+        System.out.println("TESTE OKKKKKKKKKKKKKKKKKKKKKK2");
     }
 }
